@@ -1,0 +1,14 @@
+SNO,Category,States/UTs,Mean shore zone coastal water quality- Biochemical Oxygen Demand (BOD) (mg/l)*,Mean shore zone coastal water quality-Total Nitrogen (TN) (µmol/l)*,Percentage increase in area under mangroves,Average marine acidity (pH) measured at representative sampling stations in the shore zone*,Percentage of available potential area developed under aquaculture
+1,State,Andhra Pradesh,0.79,40.5,0,8.07,37.10402298850575
+2,State,Goa,0.77,20.12,0,8.06,1.4473684210526316
+3,State,Gujarat,0.73,25.62,3.245614035087719,8.01,10.787777777777778
+4,State,Karnataka,1.04,28.48,0,8.03,13.4375
+5,State,Kerala,0.62,21.29,0,8.02,4.709230769230769
+6,State,Maharashtra,1.99,36.46,5.263157894736842,7.97,10.624
+7,State,Odisha,0.39,65,3.292181069958848,7.97,41.731012658227854
+8,State,Tamil Nadu,1.11,31.38,-8.16326530612245,8.1,14.9875
+9,State,West Bengal,0.52,Null,-0.0946073793755913,8.14,63.88222222222222
+,,Data Source,NCCR,NCCR,"Forest Survey of India 2019, MoEFCC",NCCR,"Marine Products Exports Development Authority,Ministry of Commerce and Industry"
+,,Data period,2020,2020,2017-2019,2020,2020
+,,,,,,,
+,,"* In the absence of fixed quantitative targets, these indicators have not been used to measure performance of the coastal states.",,,,,

@@ -1,0 +1,45 @@
+SNO,Category,States/UTs,Percentage of population in the lowest two wealth quintiles *,Percentage of elected women over total seats in the State/UT (Lok Sabha elections),Percentage of seats held by women in Panchayati Raj Institutions (PRIs),Percentage of SC/ST seats in State Legislative Assemblies **,Ratio of transgender  to male Labour Force Participation Rate (LFPR),"Rate of total crimes against SCs (per 1,00,000 SC population)","Rate of total crimes against STs (per 1,00,000 ST population)"
+1,State,Andhra Pradesh,22.4,16,50,20.57142857142857,0.99,24.5,12.5
+2,State,Arunachal Pradesh,43.6,0,38.99,98.33333333333333,1.39,Null,0
+3,State,Assam,62.5,7.14,54.6,19.047619047619047,0.6,0.9,0.1
+4,State,Bihar,75.2,7.5,52.02,16.46090534979424,0.59,39.5,7.3
+5,State,Chhattisgarh,59,27.27,54.79,43.333333333333336,0.81,10.4,5.5
+6,State,Goa,5.6,0,36.72,2.5,Null,11.8,1.3
+7,State,Gujarat,25.2,23.08,49.96,21.978021978021978,0.39,34.8,3.6
+8,State,Haryana,9.7,10,42.12,18.88888888888889,0.67,21.2,Null
+9,State,Himachal Pradesh,11.7,0,50.13,29.411764705882355,1.23,10.9,0.3
+10,State,Jharkhand,68,14.29,51.57,45.67901234567901,0.86,16.3,4
+11,State,Karnataka,27.3,7.14,50.05,22.869955156950674,0.59,14.4,7.7
+12,State,Kerala,3.2,5,52.42,11.428571428571429,0.99,28.2,28.9
+13,State,Madhya Pradesh,54.7,13.79,50,35.65217391304348,0.56,46.7,12.5
+14,State,Maharashtra,26.6,16.67,53.47,18.75,0.65,16.2,5.3
+15,State,Manipur,41.1,0,50.69,33.33333333333333,Null,0,0.2
+16,State,Meghalaya,46.9,50,Null,91.66666666666666,1.33,0,0
+17,State,Mizoram,17,0,23.64,97.5,1.35,0,0.8
+18,State,Nagaland,42.9,0,Null,98.33333333333333,0.44,Null,0
+19,State,Odisha,63.8,33.33,52.68,39.04109589041096,0.74,26.2,6
+20,State,Punjab,5.2,15.38,41.79,29.059829059829063,0.2,1.9,Null
+21,State,Rajasthan,41.7,12,51.32,29.5,0.36,55.6,19.5
+22,State,Sikkim,7.6,0,50.3,43.75,0.07,14.1,1
+23,State,Tamil Nadu,19.9,7.89,52.99,19.65811965811966,0.74,7.9,3.9
+24,State,Telangana,26,5.88,50.35,26.05042016806723,1.06,31.1,16.1
+25,State,Tripura,55.7,50,45.23,50,Null,0,0.2
+26,State,Uttar Pradesh,54.1,13.75,33.34,21.287128712871286,0.42,28.6,63.6
+27,State,Uttarakhand,23.1,20,56.02,21.428571428571427,0.65,4.4,2.7
+28,State,West Bengal,53.5,26.19,51.42,28.57142857142857,0.48,0.6,1.9
+29,Union Territory,Andaman and Nicobar Islands,16,0,35.66,Null,Null,Null,10.5
+30,Union Territory,Chandigarh,3.4,100,34.32,Null,Null,0.5,Null
+31,Union Territory,Dadra and Nagar Haveli,39.3,0,31.97,Null,Null,16.2,0
+32,Union Territory,Daman and Diu,16,0,47.92,Null,Null,16.3,0
+33,Union Territory,Delhi,2.3,14.29,Null,17.142857142857142,0.67,2.7,Null
+34,Union Territory,Jammu and Kashmir,26.4,0,33.18,8.045977011494253,0.25,0.2,0
+35,Union Territory,Ladakh ,26.4,0,33.18,8.045977011494253,0.25,0.2,0
+36,Union Territory,Lakshadweep,1.2,0,37.27,Null,Null,Null,0
+37,Union Territory,Puducherry,12.7,0,Null,16.666666666666664,Null,2,Null
+,,India,40,14.39,45.62,28.35,0.64,22.8,7.9
+,,Target,4.67,50,33,,1,0,0
+,,Data Source,NFHS-4,ECI,MoPR,ECI,"5th Employment-Unemployment Survey, Labour Bureau,Ministry of Labour and Employment","NCRB 2019,MHA","NCRB 2019,MHA"
+,,Data Period,2015-16,2019,2020,2019,2016,2019,2019
+,,,,,,,,,
+,,,* This indicator is not used to compute the national score under SDG 10 ,,,,,,
+,,,** This indicator is not used in  computation of the Index due to lack of uniform target for all States/UTs,,,,,,

@@ -1,0 +1,42 @@
+SNO,Category,States/UTs,Percentage of households electrified ,Percentage of LPG+PNG connections against number of households
+1,State,Andhra Pradesh,100,101.15752390538499
+2,State,Arunachal Pradesh,100,84.04907975460124
+3,State,Assam,100,97.60584336534558
+4,State,Bihar,100,76.55404541774956
+5,State,Chhattisgarh,99.67,76.87344185364424
+6,State,Goa,100,146.84
+7,State,Gujarat,100,93.32453459294247
+8,State,Haryana,100,127.07961442342022
+9,State,Himachal Pradesh,100,120.22946859903382
+10,State,Jharkhand,100,75.79481699171787
+11,State,Karnataka,100,108.80523948134426
+12,State,Kerala,100,110.77799801783945
+13,State,Madhya Pradesh,100,85.24314319367325
+14,State,Maharashtra,100,108.6357171510886
+15,State,Manipur,100,95.63758389261746
+16,State,Meghalaya,100,47.5
+17,State,Mizoram,100,114.07407407407406
+18,State,Nagaland,100,67.58793969849246
+19,State,Odisha,100,79.52446273433928
+20,State,Punjab,100,141.6639424648578
+21,State,Rajasthan,100,108.88447533929163
+22,State,Sikkim,100,104.86111111111111
+23,State,Tamil Nadu,100,100.28760018859029
+24,State,Telangana,100,120.43473582266219
+25,State,Tripura,100,82.39583333333333
+26,State,Uttar Pradesh,100,106.82624339704492
+27,State,Uttarakhand,100,115.39770310506165
+28,State,West Bengal,100,98.13450937155459
+29,Union Territory,Andaman and Nicobar Islands,Null,115.15151515151514
+30,Union Territory,Chandigarh,Null,143.2234432234432
+31,Union Territory,Dadra and Nagar Haveli,Null,89.28571428571428
+32,Union Territory,Daman and Diu,Null,78.02197802197803
+33,Union Territory,Delhi,100,147.34215123533815
+34,Union Territory,Jammu and Kashmir,100,131.30434782608697
+35,Union Territory,Ladakh ,100,169.811320754717
+36,Union Territory,Lakshadweep,Null,90.90909090909092
+37,Union Territory,Puducherry,100,97.9002624671916
+,,India,99.99,92.02
+,,Target,100,100
+,,Data Source,Ministry of Power (Saubhagya Dashboard) ,MoPNG Calculations
+,,Data Period,2019,As on 31.07.2020
